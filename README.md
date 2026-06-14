@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This lab explores unsupervised clustering techniques applied to the **Wine Dataset** from `sklearn`. It compares two algorithms — **K-Means** and **K-Medoids** - using performance metrics (Silhouette Score, Adjusted Rand Index) and 2-D PCA visualisations to understand the strengths and trade-offs of each method.
+This lab explores unsupervised clustering techniques applied to the **Wine Dataset** from `sklearn`. It compares two algorithms - **K-Means** and **K-Medoids** - using performance metrics (Silhouette Score, Adjusted Rand Index) and 2-D PCA visualisations to understand the strengths and trade-offs of each method.
 
 ---
 
