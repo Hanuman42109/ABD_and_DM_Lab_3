@@ -1,0 +1,4 @@
+K-Means Results (k=3)
+  Silhouette Score          : 0.2849
+  Adjusted Rand Index (ARI) : 0.8975
+  Cluster sizes             : {np.int32(0): np.int64(65), np.int32(1): np.int64(51), np.int32(2): np.int64(62)}
